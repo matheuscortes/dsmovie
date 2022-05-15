@@ -1,5 +1,7 @@
 # DSMovie
 
+**Link para a aplicação no Netlify:** https://application-dsmovie.netlify.app
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/matheuscortes/dsmovie/blob/main/LICENSE)
 
 ## Sobre o projeto
